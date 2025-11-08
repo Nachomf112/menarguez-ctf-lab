@@ -3,3 +3,7 @@ __pycache__/
 .env
 instance/
 *.db
+
+# No subir BBDD locales ni logs
+.data/
+*.log
